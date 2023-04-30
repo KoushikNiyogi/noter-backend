@@ -1,0 +1,4 @@
+1. Hashing - 
+
+module - bcrypt -> npm i bcrypt
+import - bcrypt -> 
